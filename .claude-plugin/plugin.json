@@ -1,0 +1,8 @@
+{
+  "name": "license-validator",
+  "version": "1.0.0",
+  "description": "Shared license verification for Chameleon Labs commercial plugins. Install once; all Chameleon Labs paid plugins will use it to validate licenses.",
+  "author": { "name": "Chameleon Labs, LLC", "url": "https://chameleonlabs.ai" },
+  "homepage": "https://github.com/Chameleon-Labs-LLC/license-validator",
+  "license": "MIT"
+}

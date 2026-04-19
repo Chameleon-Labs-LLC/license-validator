@@ -1,0 +1,8 @@
+# By default, Git might ignore .pem files via parent gitignore rules.
+# This file explicitly allows the public keys we ship with the plugin.
+# NEVER commit a private key here.
+!server-pubkey.pem
+!server-pubkey-v1.pem
+*.key
+*-private.pem
+*-priv.pem
